@@ -17,6 +17,13 @@ public class Test01 {
     }
 
     /**
+     * v1.1 devlop-1
+     */
+    public void test02(){
+        System.out.println("test02");
+    }
+
+    /**
      * v1.2  devlop-02
      */
     public void test03(){
