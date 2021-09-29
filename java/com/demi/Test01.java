@@ -22,4 +22,11 @@ public class Test01 {
     public void test03(){
         System.out.println("test03");
     }
+
+    /**
+     * v1.2 devlop-02
+     */
+    public void test05(){
+        System.out.println("test05");
+    }
 }
