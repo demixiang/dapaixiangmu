@@ -15,4 +15,11 @@ public class Test01 {
     public void test01(){
         System.out.println("test01");
     }
+
+    /**
+     * v1.1 devlop-1
+     */
+    public void test02(){
+        System.out.println("test02");
+    }
 }
