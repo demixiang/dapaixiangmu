@@ -36,4 +36,11 @@ public class Test01 {
     public void test05(){
         System.out.println("test05");
     }
+
+    /**
+     * v1.2 devlop-02
+     */
+    public void test06(){
+        System.out.println("test06");
+    }
 }
